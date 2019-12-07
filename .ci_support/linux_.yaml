@@ -1,0 +1,6 @@
+channel_sources:
+- ramonaoptics,conda-forge,defaults
+channel_targets:
+- ramonaoptics main
+docker_image:
+- condaforge/linux-anvil-comp7
